@@ -1,0 +1,9 @@
+CPE101
+Project 5
+How long takes your project to be executed?
+Puzzle.py: 2.16 secs
+Fade.py:  4.06 secs
+Blur.py: 15 secs
+Project 5     Member 1Name:
+ Hayden Tam Responsibilities      I did the main file, the fade file and the puzzle file. For the puzzle file, it took awhile to really understand how to use files and rewrite it and open it, but after that, it really set the tone for the other files. The logic from the puzzle file was basically the same for the fade file, except I needed a way to access the different points within the image. It took awhile to find a way to find my position, but once I did it was easy to create a vivid circle around the baby. For the main, it was a bit hard because I didn’t know what we were supposed to check for, but once I did it was a piece of cake. Professor told me to just use a general usage error at the end, but I was able to incorporate some usage errors within like if the argument isn’t a numerical value or a string.                                                                                                                                             Spending hours 5 hoursMember 2Name:  Giselle Dougan ResponsibilitiesI wrote the blur function includes Pixel class, this was difficult to implement so I came up with a class Pixel in order to compare the three values of red, green, and blue easily. I started with sorting one Pixel and then appended the average of one Pixel together to make the image. I wrote a lot of helper functions that did tasks such as splitting the file into separate list per line, grouping the pixels into three to find the color, renaming the blurring file and so on to create the finalized blur.py function. Spending hours5 hours (total) 
+
